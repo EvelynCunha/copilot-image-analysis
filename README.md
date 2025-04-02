@@ -30,10 +30,10 @@ O Copilot traz insights mais profundos e detalhes interessantes sobre as imagens
 
 Aqui estão alguns exemplos de imagens enviadas para o Copilot, com suas respectivas análises:
 
-- **Imagem 1**: ![processo1](Git/inputs/processo1.png)
+- **Imagem 1**: ![processo1](inputs/processo1.png)
   - **Análise**: O Copilot descreve a imagem de forma mais superficial, como por exemplo o que contém na imagem, as características gerais da sua composição.
 
-- **Imagem 2**: ![processo2](Git/inputs/processo2.png)
+- **Imagem 2**: ![processo2](inputs/processo2.png)
   - **Análise**: Temos uma análise mais detalhada que trouxe informações sobre o impacto emocional da imagem, possíveis significados, e intenção passada.
 
 ## Conclusões
